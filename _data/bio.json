@@ -108,11 +108,22 @@
    
   ],
     "work": [
+      {
+      "company": "Ikayzo",
+      "position": "Intern",
+      "website": "https://ikayzo.com/",
+      "startDate": "2020-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
-      "website": "",
-      "startDate": "http://www.hawaii.edu/its/",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2019-05",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -125,7 +136,7 @@
       "position": "Pharmacy Clinic Assistant",
       "website": "",
       "startDate": "2018-05",
-      "endDate": "201-12",
+      "endDate": "2019-12",
       "summary": "",
       "highlights": [
         "Input doctor’s prescribed information into pharmacy computer database, type prescription information to produce labels that are placed onto medication, and work as a cashier."
