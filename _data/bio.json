@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://Samuelcy.github.io/images/Samuel.png",
     "email": "Samuelcy@hawaii.edu",
-    "phone": "808-741-1426",
+    "phone": "",
     "website": "https://Samuelcy.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
@@ -32,29 +32,32 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "",
-        "",
-        "",
       ]
     },
     {
-      "name": "Mobile Development",
+      "name": "Web & Mobile Development",
       "keywords": [
       ]
     },
     {
-      "name": "Web Development",
+      "name": "VR",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "Video Games",
+      "keywords": [
+      ]
+    },
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Dart",
         "Java",
+        "Dart",
         "CSS",
         "HTML",
         "Javascript",
@@ -66,10 +69,10 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "U",
+        "Windows",
         "Git/GitHub",
-        "",
-        ""
+        "Atom Code Editor",
+        "Visual Studio Code"
       ]
     }
   ],
@@ -84,6 +87,26 @@
       "courses": [
       ]
     }
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.A.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+  {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.A.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
    
   ],
   "work": [
