@@ -24,8 +24,7 @@
         "network": "linkedin",
         "username": "Samuel Han",
         "url": "http://linkedin.com/in/samuel-h-6a2862187/"
-      },
-     
+      }
     ]
   },
   "interests": [
@@ -49,7 +48,7 @@
       "keywords": [
       ]
     },
-  
+   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
