@@ -30,20 +30,20 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Software Engineering",
-        "Mobile Development",
-        "Web Development",
+        "",
+        "",
+        "",
       ]
     },
     {
-      "name": "data mining",
+      "name": "Mobile Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Web Development",
       "keywords": [
       ]
     }
@@ -53,12 +53,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Dart",
         "Java",
+        "CSS",
+        "HTML",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "React"
       ]
     },
     {
@@ -66,14 +66,24 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "U",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "",
+        ""
       ]
     }
   ],
   "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
