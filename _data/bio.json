@@ -148,12 +148,24 @@
       "organization": "ICSpark",
       "website": "https://icspark.github.io/",
       "position": "Co-founder",
-      "startDate": "2019-101",
+      "startDate": "2019-10",
       "endDate": "Present",
       "summary": "Mentor for middle and high school students of Hawai'i",
       "highlights": [
         "Students are taught Web Developement Skills: HTML, CSS, and JS",
         "Host free open lessions & tutoring at UH Manoa every spring semester in a classroom structed environment"
+      ]
+    },
+    {
+      "organization": "Institute of Biogenesis Research",
+      "website": "https://www.ibr.hawaii.edu/",
+      "position": "Associate / Intern student",
+      "startDate": "2018-05",
+      "endDate": "2018-12",
+      "summary": "Lab research assistant",
+      "highlights": [
+        "Attenot to determine if the ORC3 gene can be used in polar body extrusion in addition to DNA pre-replication complex, and human DNA divsion in mice.",
+        "Utilized DNA extraction and cloning from mice; Imaging DNA through gel electrophoresis."
       ]
     },
     {
@@ -165,13 +177,12 @@
       "summary": "",
       "highlights": [
         "President, Director of Community  Service, PPA Manoa, 2015-2019"
+        "Member, Circle K Manoa, 2015-2017"
         
       ]
     }
   ],
-  "awards": [
-    
-  ],
+ 
   "references": [
     {
       "name": "Available upon request",
