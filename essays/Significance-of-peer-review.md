@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ikayzo Internship Reflection
+title: The Significance of Peer Review
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-29
 labels:
