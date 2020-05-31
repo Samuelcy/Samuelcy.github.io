@@ -16,8 +16,6 @@ labels:
 These essays are a reflection of my experiences working for Ikayzo as a software engineer intern for the first time in my life. It will consist of what I've worked on, learned, and the challenges that I faced.
 <hr>
 
-## The Signficance of Peer Review
-
  A chain is only as strong as its weakest link. In other words, a team is only as strong as its weakest member. This idiom emphasizes that the success of a group encompasses the accomplishments of the individual members within it. Code reviews or peer reviews are examination of code done by developers. This method is to ensure that the work done creates a quality product. This summer was the first time I had to share my code with others and have it reviewed.	
 <br>
 
