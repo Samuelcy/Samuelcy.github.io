@@ -32,3 +32,9 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 |         | - id two |
 +---------+----------+
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
