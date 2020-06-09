@@ -16,19 +16,12 @@ labels:
 These essays are a reflection of my experiences working for Ikayzo as a software engineer intern for the first time in my life. It will consist of what I've worked on, learned, and the challenges that I faced.
 <hr>
 
-
-
-
-| Date   |      Title      |  Description |
-|----------|:-------------:|------:|
-| 5/26 | [Crawl Before Walking](2015-08-26.md) | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
-| 5/29 | Significance of Peer Review | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb |
-| 6/05 | Pushing Boundaries | ccccccccccccccccccccccccccccc |
-
-
 | Date | Title | Description |
 |-------|--------|:---------|
 | 5/26 | [Crawl Before Walking](2015-08-26.md) | A reflection of my first week. |
+|||
 | 5/29 | [Significance of Peer Review](Significance-of-peer-review.md) | Using Github's code review. |
+|||
 | 6/05 | [Pushing Boundaries](Pushing-boundaries.md) | Privacy and technology intertwining in our daily lives. |
+|||
 
