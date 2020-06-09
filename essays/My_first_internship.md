@@ -17,11 +17,12 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 <hr>
 
 
-
+<br>
 | Date      | Title    | Description     |
+<hr>
 | :------------- | :----------: | -----------: |
-| 5/26  | More Stuffnnnnnnnnnnnnnnnnnnnn   | And Again    |
-| 5/29 | test | test |
-| 6/05 | test | test |
+| 5/26  | Crawl Before Walking | test    |
+| 5/29 | Significance of Peer Review | test |
+| 6/05 | Pushing Boundaries | test |
 
 
