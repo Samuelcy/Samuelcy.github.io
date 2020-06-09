@@ -1,6 +1,6 @@
 ---
 layout: essay
-published: false
+published: true
 type: essay
 title: Pushing Boundaries
 # All dates must be YYYY-MM-DD format!
