@@ -18,6 +18,11 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 
 test
 
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
+
 |   test	|   test	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
 |   test	|   	|   	|   	|   	|
