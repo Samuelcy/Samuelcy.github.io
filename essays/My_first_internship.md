@@ -34,7 +34,7 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
-| ambrosia | gala | red deliciousaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
-| pink lady | jazznnnnnnnnnnnnnnnnnnnnnnnnnn | macintosh |
-| honeycrispcccccccccccccccccccccccc | granny smith | fuji |
+| 5/26 | Crawl Before Walking | red deliciousaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
+| 5/29 | Significance of Peer Review | macintosh |
+| 6/05 | Pushing Boundaries | fuji |
 
