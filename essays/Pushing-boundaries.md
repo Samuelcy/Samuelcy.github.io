@@ -30,9 +30,5 @@ I do not blame anyone who is skeptical on using a certain product if it asks for
 
 [Caption]: https://www.youtube.com/watch?v=ncbb5B85sd0?t=56
 
-<div class="ui embed" data-source="youtube" data-id="ncbb5B85sd0?t=56" > Here's the link!
-</div>
-
-
 
 <!---[Click here for my next reflection!](https://samuelcy.github.io/essays/2020-06-12.html) -->
