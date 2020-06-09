@@ -26,7 +26,7 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 | 6/05 | Pushing Boundaries | ccccccccccccccccccccccccccccc |
 
 
-| Priority apples | Second priority | Third priority |
+| Date | Title | Description |
 |-------|--------|---------|
 | 5/26 | [Crawl Before Walking](2015-08-26.md) | red deliciousaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | 5/29 | [Significance of Peer Review](Significance-of-peer-review.md) | macintosh |
