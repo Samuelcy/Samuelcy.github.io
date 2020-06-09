@@ -11,11 +11,6 @@ labels:
   - Flutter
 ---
 
-<img class="" src="../images/logo-ikayzo.png">
-
-These essays are a reflection of my experiences working in a software development firm as an intern for the first time in my life. It will consist of what I've worked on, learned, and the challenges that I faced.
-<hr>
-
 This week I implemented a feature into an application that would request the user’s current data. This data would then be utilized within the product. The user can disable this data collection feature. This got me thinking how much we as users value privacy, as technology is rapidly changing every day. Accessories of the modern day have begun to rely on the information of the user.
 <br>
 
