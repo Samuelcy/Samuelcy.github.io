@@ -18,7 +18,7 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 
 
 <br>
-| Date      | Title    | Description     |
+| <strong>Date</strong> | <strong>Title</strong> | <strong>Description</strong> |
 | :------------- | :----------: | -----------: |
 | 5/26  | Crawl Before Walking | test    |
 | 5/29 | Significance of Peer Review | test |
