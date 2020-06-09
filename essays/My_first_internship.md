@@ -21,20 +21,14 @@ These essays are a reflection of my experiences working for Ikayzo as a software
 
 | Date   |      Title      |  Description |
 |----------|:-------------:|------:|
-| 5/26 | Crawl Before Walking | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
+| 5/26 | [Crawl Before Walking](2015-08-26.md) | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | 5/29 | Significance of Peer Review | bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb |
 | 6/05 | Pushing Boundaries | ccccccccccccccccccccccccccccc |
 
-+---------+----------+
-| Name    | Columns  |
-+=========+==========+
-| PRIMARY | - id one |
-|         | - id two |
-+---------+----------+
 
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
-| 5/26 | Crawl Before Walking | red deliciousaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
-| 5/29 | Significance of Peer Review | macintosh |
-| 6/05 | Pushing Boundaries | fuji |
+| 5/26 | [Crawl Before Walking](2015-08-26.md) | red deliciousaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
+| 5/29 | [Significance of Peer Review](Significance-of-peer-review.md) | macintosh |
+| 6/05 | [Pushing Boundaries](Pushing-boundaries.md) | fuji |
 
