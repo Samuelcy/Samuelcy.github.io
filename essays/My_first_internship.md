@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: My First Internship
 # All dates must be YYYY-MM-DD format!
-2020-05-26
+date: 2020-05-26
 labels:
   - Reflection
   - Internship
