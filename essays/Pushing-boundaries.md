@@ -30,7 +30,7 @@ I have come to realize that there is a diverse group of users who use technology
 I do not blame anyone who is skeptical on using a certain product if it asks for their personal information. The definition of privacy has changed throughout the generations.  If you were to tell someone 50 years in the past that the pictures you take and the messages you send are stored somewhere, you would seem crazy. A future without privacy may or may not happen. And I wonder how long we can push the definition of this word. test
 <br>
 
-<div class="ui embed" data-source="youtube" data-id="ncbb5B85sd0?t=56" >
+<div class="ui embed" data-source="youtube" data-id="ncbb5B85sd0?t=56" > Here's the link!
 </div>
 
 
