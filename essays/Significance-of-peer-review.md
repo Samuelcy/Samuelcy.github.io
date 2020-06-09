@@ -1,6 +1,6 @@
 ---
 layout: essay
-published: false
+published: true
 type: essay
 title: The Significance of Peer Review
 # All dates must be YYYY-MM-DD format!
