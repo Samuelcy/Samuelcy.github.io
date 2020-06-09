@@ -21,8 +21,8 @@ test
 |:-------:|-|--------|-|:---------|
 | 5/26 || [Crawl Before Walking](2015-08-26.md) || A reflection of my first week. |
 ||||
-| 5/29 || [Significance of Peer Review](Significance-of-peer-review.md) || Using Github's code review. |
+| 5/29 || [Significance of Peer Review](Significance-of-peer-review.md) || Code review is a pivotal component of team building. |
 ||||
-| 6/05 || [Pushing Boundaries](Pushing-boundaries.md) || Privacy and technology intertwining in our daily lives. |
+| 6/05 || [Pushing Boundaries](Pushing-boundaries.md) || The definition of privacy slowly changing may perplex the understanding of advancing technology.|
 ||||
 
