@@ -30,5 +30,5 @@ For new members of a team, code reviews are a significant part of mentorship fro
 Since my internship is done virtually, I do not have the luxury of having someone take a quick look over my shoulder and check my code. Even though code reviews are standardized within a company, I feel reassured to know that there will at least be someone there to help me even if I am alone physically. These code reviews go beyond debugging as it allows knowledge to be shared between members. Even though I have just started, I look forward to coding reviews as it allows me to become a better software engineer and enhance product quality.	
 <br>
 
-[Click here for my next reflection!](https://samuelcy.github.io/essays/2020-06-05.html)
+[Click here for my next reflection!](https://samuelcy.github.io/essays/Pushing-boundaries.html)
 
