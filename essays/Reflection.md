@@ -2,7 +2,7 @@
 layout: essay
 published: true
 type: essay
-title: My Reflection on The App Store
+title: My Reflection of The App Store
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-12
 labels:
