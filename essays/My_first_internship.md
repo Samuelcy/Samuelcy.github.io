@@ -25,4 +25,6 @@ test
 ||||
 | 6/05 || [Pushing Boundaries](Pushing-boundaries.md) || The definition of privacy slowly changing may perplex the understanding of advancing technology.|
 ||||
+| 6/12 || [App Store Reflection](Reflection.md) || My take on the app store and its current state.|
+||||
 
