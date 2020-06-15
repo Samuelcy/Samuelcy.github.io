@@ -11,8 +11,10 @@ labels:
   - Dart
   - Flutter
 ---
+
 The first new thing I was tasked to do for my internship was mobile app development. I reminiscence the golden age it had when it was first introduced. Specifically, the launch of the Apple app store. I remember in middle school that almost every kid owned an iPod touch. It was a new frontier at the palm of our hands. I spent hours at night going through the app store looking for hidden gems. I thought the future for smart phones was boundless. However, this feeling I had felt of excitement and curiosity, has lost its enticement for me in the modern day.
 <br>
+
 People these days cannot leave their homes without their phones. The smart phone’s importance has been engrained in modern life. The necessities of the phone are built upon the applications within it. There are approximately 3.8 billion users for smart phones. And it is predicted that by the end of 2020, over 188 billion dollars would have been spent for mobile ad spending. There is no stopping for this industry with the number of consumers and money being poured into it.
 <br>  
 
