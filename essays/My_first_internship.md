@@ -27,4 +27,7 @@ test
 ||||
 | 6/12 || [App Store Reflection](App_Store_Reflection.md) || My take on the app store and its current state.|
 ||||
+| 6/29 || [More is Better Than Less](More_Is_Better_Than%20Less.md) || Why we have more than one universal programming language today.|
 
+
+https://samuelcy.github.io/essays/More_Is_Better_Than%20Less.html
