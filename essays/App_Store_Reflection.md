@@ -27,5 +27,4 @@ Companies need applications that compliment their service. It is not a surprise 
 So is the landscape of mobile application dead? No, it is far from it. But the ambitions of an app thriving that is fueled through creativity will have a difficult time in the sea of applications. Frankly, it may be just me who is bored with the current state of the app store. I have already downloaded everything I needed that pertains to my life. As technology evolves, mobile applications will adjust to fit the needs of humankind. A decade ago, no one would have been able to predict the usage of facial recognition and augmented reality being readily available to the mass market in a phone. So long as mobile hardware specifications improve, the potential of the phone is endless which is why I am still optimistic I will regain interest in the future.   
 <br>
 
-<!---[a relative link](https://samuelcy.github.io/essays/2020-06-19.html) -->
-
+[Click here for my next reflection!](https://samuelcy.github.io/essays/More_Is_Better_Than Less.html)
