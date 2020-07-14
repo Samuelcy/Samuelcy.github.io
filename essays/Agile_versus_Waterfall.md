@@ -4,7 +4,7 @@ published: true
 type: essay
 title: Agile versus Waterfall
 # All dates must be YYYY-MM-DD format!
-date: 2020-06-19
+date: 2020-07-13
 labels:
   - Reflection
   - Internship
@@ -17,18 +17,18 @@ Methodology is a system of methods and principles of a study or activity. Softwa
 In 1970, Dr. Winston W. Royce published a paper describing the [Waterfall model](http://www.umsl.edu/~hugheyd/is6840/waterfall.html). He described that it was a linear project model where the business and client would meet early onto develop a project plan. The project would then go through strict stages with no overlapping. The term waterfall comes from the proceeding and completion of phases. There are variations for the Waterfall model but typically follow like this:
 <br>
 
-Requirements: All requirements for the project are laid out and documented. It is understood what the client wants for the product.
-Analysis or Design: Understanding what type of hardware and software are to be used for the product. Cost analysis and time are determined here as well.
-Code: Where the coding begins.
-Testing: Quality assurance is done to find any faults or glitches with the projects.
-Deployment: Released to the client or market.
-Maintenance: Patches for issues are created in response from the users.
+**Requirements**: All requirements for the project are laid out and documented. It is understood what the client wants for the product.
+**Analysis or Design**: Understanding what type of hardware and software are to be used for the product. Cost analysis and time are determined here as well.
+**Code**: Where the coding begins.
+**Testing**: Quality assurance is done to find any faults or glitches with the projects.
+**Deployment**: Released to the client or market.
+**aintenance**: Patches for issues are created in response from the users.
 <br>
 
 The pros for the Waterfall method allow management of the product to be much easier due to the planning done at the beginning of the project. This is due to the developer and the customer agreeing in the early development life cycle what the goal of the project is. Milestones can also be understood as there are defined stages. The cons of the Waterfall method are that it is difficult to adapt to changes. If a customer is suddenly dissatisfied with the final product, or suggests something completely different, it may restart the whole production. This would result in time and cost being wasted. The waterfall method is not meant for projects that are at risk of changing factors.
 <br>
 
-The Agile methodology was derived from the [Agile Manifesto of Software Development](http://agilemanifesto.org/), which was conceived by 17 people in 2001. This manifesto focused on the following: Individuals and interactions over processes and tools. Working software over comprehensive documentation, Customer collaboration over contract negotiation. Responding to change over following a plan. Agile focuses on ensuring that the customer is satisfied with the product. Which is achieved by constant iterations of planning and feedback with the client.
+The Agile methodology was derived from the [Agile Manifesto of Software Development](http://agilemanifesto.org/), which was conceived by 17 people in 2001. This manifesto focused on the following: **Individuals and interactions** over processes and tools. **Working software** over comprehensive documentation, **Customer collaboration** over contract negotiation. **Responding to change** over following a plan. Agile focuses on ensuring that the customer is satisfied with the product. Which is achieved by constant iterations of planning and feedback with the client.
 <br>
 
 [Agile](https://www.bestcomputersciencedegrees.com/faq/what-is-agile-software-development/) breaks the product development into increments. Sprints are predetermined time frames in which developers would work on the  product through planning and coding. At the end of each sprint, the product is shown to the customer. Feedback can then be given to allow the next sprints or iterations to be improved. If there is anything that the customer does not like, the product may be changed quickly. One iteration may not be enough for the market. The purpose for each iteration is to improve from the previous. 
