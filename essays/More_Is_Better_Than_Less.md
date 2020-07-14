@@ -38,4 +38,4 @@ To go back to the issue I mentioned initially with programming in another langua
 So, is it possible for a universal language to do everything? Maybe… but I do not think that some people would want a hammer that contains a drill, screw drive, wrench, and a measuring tape. It would be much better to have a tool optimized to its max potential to do a certain task. I understand now there is strength for technology when there are a variety of languages out there. Two languages may solve the same issue, but the user must make a choice on the programming language’s characteristics such as performance or syntax.
 <br>
 
-<!---[a relative link](https://samuelcy.github.io/essays/2020-06-26.html) -->
+[Click here for my next reflection!](https://samuelcy.github.io/essays/Agile_versus_Waterfall.html)
