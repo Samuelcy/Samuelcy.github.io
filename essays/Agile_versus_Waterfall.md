@@ -18,11 +18,16 @@ In 1970, Dr. Winston W. Royce published a paper describing the [Waterfall model]
 <br>
 
 **Requirements**: All requirements for the project are laid out and documented. It is understood what the client wants for the product.
+<br>
 **Analysis or Design**: Understanding what type of hardware and software are to be used for the product. Cost analysis and time are determined here as well.
+<br>
 **Code**: Where the coding begins.
+<br>
 **Testing**: Quality assurance is done to find any faults or glitches with the projects.
+<br>
 **Deployment**: Released to the client or market.
-**aintenance**: Patches for issues are created in response from the users.
+<br>
+**Maintenance**: Patches for issues are created in response from the users.
 <br>
 
 The pros for the Waterfall method allow management of the product to be much easier due to the planning done at the beginning of the project. This is due to the developer and the customer agreeing in the early development life cycle what the goal of the project is. Milestones can also be understood as there are defined stages. The cons of the Waterfall method are that it is difficult to adapt to changes. If a customer is suddenly dissatisfied with the final product, or suggests something completely different, it may restart the whole production. This would result in time and cost being wasted. The waterfall method is not meant for projects that are at risk of changing factors.
