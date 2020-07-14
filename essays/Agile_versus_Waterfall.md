@@ -2,7 +2,7 @@
 layout: essay
 published: true
 type: essay
-title: More is Better Than Less
+title: Agile versus Waterfall
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-19
 labels:
