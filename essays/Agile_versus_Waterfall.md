@@ -45,6 +45,6 @@ If these two methodologies were to be simplified for Water versus Agile, it woul
 So which method would I take? In a hypothetical situation where I am doing a school group project, I would go the agile route. Assuming I don’t know who I am working with, team members with variable skill levels will make it difficult to estimate how long it will take to finish a project. I also would have to account that my classmates are taking other classes as well. This means that their focus to the project might be limited. Each iteration would allow us as a group to give and receive feedback. I would feel safer going through with this route as iterations can be broken down into small manageable pieces or "baby steps". 
 
 
-<!---[a relative link](https://samuelcy.github.io/essays/2020-07-03.html)
- -->
+[Click here for more!](https://samuelcy.github.io/essays/Ability_to_Learn.html)
+
 
