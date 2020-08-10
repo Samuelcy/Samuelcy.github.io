@@ -33,4 +33,4 @@ test
 ||||
 | 8/1 || [The Ability to Learn](Ability_to_Learn.md) || Changing how I defined Learning.|
 ||||
-| 8/9 || [Before_Now_After](Before_Now_After.md) || A reflection of my life.|
+| 8/9 || [Before Now After](Before_Now_After.md) || A reflection of my life.|
