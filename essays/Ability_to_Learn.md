@@ -27,4 +27,4 @@ In the pursuit of gaining knowledge, I learned that that to code like the best, 
 As an intern there are time when I feel overwhelmed with my task. As someone who is getting their second degree and was put in a class full of freshman last year, I felt that asking help was a sign of weakness. But by not asking for help, I am hindering what I can learn. I have at most a year of experience in computer science and only two months in Flutter. It makes sense that the greatest insight I can gain immediately, is asking my supervisor for help. Months ago, I figured that a good intern was one who would know how to do everything. However, a good intern is one who has the ability to learn to do everything.
 
 
-<!--- [a relative link](https://samuelcy.github.io/essays/2020-07-10.html)-->
+[Click here for more!](https://samuelcy.github.io/essays/Before_Middle_After.html)
