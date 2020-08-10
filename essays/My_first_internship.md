@@ -32,3 +32,5 @@ test
 | 7/13 || [Agile versus Waterfall](Agile_versus_Waterfall.md) || Comparison of the most popular software methodologies.|
 ||||
 | 8/1 || [The Ability to Learn](Ability_to_Learn.md) || Changing how I defined Learning.|
+||||
+| 8/9 || [Before_Now_After](Before_Now_After.md) || A reflection of my life.|
