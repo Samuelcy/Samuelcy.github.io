@@ -33,6 +33,6 @@ In college, I always assumed that I would not know how to do a certain subject, 
 There are many subfields within computer science. I will not know what I will enjoy in life until I put myself out there. Whether it be an internship or a computer science class, there is so much for me to explore.  I do not know what I will be doing exactly but I know that I’ll be in a field that I enjoy. When I interviewed for internships this year, I felt a strong relief. A strong relief that I can be honest with myself.
 <br>
 
-I sincerely thank everyone who I have met and helped me on the way for thsi internship. 
+I sincerely thank everyone who I have met and helped me on the way for this internship. 
 
 
