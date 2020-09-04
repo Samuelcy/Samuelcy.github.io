@@ -14,7 +14,7 @@ JavaScript was the first project language that I have ever used. Coming from int
 <br>
 
 ![Test Image 1](https://careerkarma.com/blog/wp-content/uploads/2019/12/easiest-programming-languages-to-learn-1.jpg)
-<img src="https://careerkarma.com/blog/wp-content/uploads/2019/12/easiest-programming-languages-to-learn-1.jpg" width="500" height="500" alt="some_text">
+<img src="https://careerkarma.com/blog/wp-content/uploads/2019/12/easiest-programming-languages-to-learn-1.jpg" width="400" height="300" alt="some_text">
 
 When I learned JavaScript for the first time, I was using videos that I bought off from a course at Udemy. This was the wrong way to learn. I spent countless hours watching someone else code and teach for me. The first assignment for ICS 314 was to learn JavaScript off of FreeCodeCamp’s tutorial. Although this learning process was a bit tedious. I felt much more comfortable with this language. The question and answer format that this website gave reinforced what I was learning. If I answered a question incorrectly, I would know that I was not familiar with the topic. The hints for the solutions were also helpful in guiding my learning experience. This goes in hand with my classes. I can pay attention to a lecture, but my knowledge won’t be tested until I am given an assignment or quiz.
 <br>
