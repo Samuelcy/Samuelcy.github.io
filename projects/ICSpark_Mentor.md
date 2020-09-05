@@ -6,9 +6,10 @@ title: ICSpark Mentor
 permalink: projects/ICSpark_Mentor
 date: 2019-09-04
 labels:
-  - Flutter
-  - Internship
-summary: Summer Internship at Ikayzo as a Mobile App Developer
+  - HTML
+  - CSS
+  - JavaScript
+summary: Web Development mentor
 ---
 
 <img class="ui medium right floated rounded image" src="/images/ICSpark.png">
