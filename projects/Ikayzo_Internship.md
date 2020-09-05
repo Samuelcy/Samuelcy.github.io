@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Ikayzo.png
 title: Ikayzo Mobile App Developer
-permalink: projects/Ikayz_Internship
+permalink: projects/Ikayzo_Internship
 date: 2019-09-04
 labels:
   - Flutter
