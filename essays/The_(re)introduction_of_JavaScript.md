@@ -2,7 +2,7 @@
 layout: essay
 published: true
 type: essay
-title: The (re)introduction ofJavaScript
+title: The (re)introduction of JavaScript
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-03
 labels:
