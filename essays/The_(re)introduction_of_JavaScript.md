@@ -19,7 +19,7 @@ When I learned JavaScript for the first time, I was using videos that I bought o
 <br>
 
 
-<img class="ui medium right floated rounded image" src="https://static.ffx.io/images/$zoom_0.23%2C$multiply_0.3541%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/46de343d38f3c5e7996ce115398c182d0bd22d92" width="400" height="400" alt="some_text">
+<img class="ui medium right floated rounded image" src="https://static.ffx.io/images/$zoom_0.23%2C$multiply_0.3541%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_48/t_crop_custom/q_86%2Cf_auto/46de343d38f3c5e7996ce115398c182d0bd22d92" width="300" height="300" alt="some_text">
 
 The WODs are an interesting practice that I didn’t think I would experience within the ICS curriculum at UH Manoa. It reminded me of myself of doing a leet code question. I enjoy that WODs can be worked in a group. When working within a group, it’s relieving to have someone explain a problem that I don’t know.  WODs are a good way to demonstrate what I know and don’t know from the material being presented. When I was given the first assignment, I had a somewhat clear idea on how to solve it.  But what messed me up when I was doing this WOD, was not knowing the specific syntax to complete the question. This helped me find gaps in my knowledge for the language. With leetcode (and no prior knowledge in “algorithm questions”), I felt like I was thrown out into the wild. The WODs given so far have been approachable. The solution for today's WOD was similar to the first assignment. So long as the difficulty increases gradually, I will enjoy doing WODs. Also, the solution videos that Professor Johnson has provided were also straightforward and helpful for my learning experience.
 <br>
