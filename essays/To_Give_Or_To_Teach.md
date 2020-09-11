@@ -14,7 +14,6 @@ As a software engineer, we should never think that we are alone when solving a p
 
 Sometimes, it is easy to get people’s time and assistance for granted. Eric states that the people who answer these questions are doing it out of their own good will. These people may be proficient in knowledge for their field, and enjoy solving thought provoking questions. A sort of challenge against what they know. Pessimistic answers may come from annoyance if the question isn’t worded properly. The answerer doesn’t want to waste time asking for additional information from the user such as “Did you do ___ or can you show your code?”.  
 <br>
-
 So how should a person ask for help? The person asking a question should ensure that he or she has conveyed that some type of work has been done. No one should say “PLEAsE HALP ME! NO wORK!”. Background information should be laid out of the answerer to understand the issue thoroughly. A bad example of someone asking for help is his or her computer screen not working. Instead, a good question from this user is stating the exact detail of what's happening. “On 12/12/12 my computer screen stopped working. My computer was working the day prior. My computer specs are x, y, and z. There was no indication of blackouts within the house. After changing out the monitor with a new one, the display still has no signal.” With additional information, someone should be able to ask if there has been any POST beep messages. Then, someone may determine if a computer part is broken or not.
 <br>
 
