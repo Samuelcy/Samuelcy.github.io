@@ -2,7 +2,7 @@
 layout: essay
 published: true
 type: essay
-title: Helping Hand
+title: Helping_Hand
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-08
 labels:
