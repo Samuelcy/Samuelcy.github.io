@@ -17,7 +17,7 @@ I have always heard of frameworks being used for web development, but never real
 The syntax is easy to pick up and understand. In this picture included here, at a glance I can tell that this is menu that has several items. 
 <br>
 
-<img class="ui medium right floated rounded image" src="../images/semantic.PNG">
+<img class="ui medium right floated rounded image" src="../images/semantic.jpg">
 All I need to do is call class names for it to activate!
 <br>
 
