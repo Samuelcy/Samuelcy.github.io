@@ -2,7 +2,7 @@
 layout: essay
 published: true
 type: essay
-title: Helping_Hand
+title: Helping Hand
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-08
 labels:
@@ -22,4 +22,6 @@ All I need to do is call class names for it to activate!
 <br>
 
 When I heard that students of ICS 314 would have to recreate websites for WODs a couple months ago, I thought that it wasn’t realistically possible when put on timer. How in the world am I supposed to do that? Fortunately for Semantic UI, it does everything for me. Now when creating a website, all I need to do is remember the most important factors of a website such as Menus or Containers. 
+<br>
 
+This week was probably the best learning material that we ever had. I felt that the time commited to this material, will end up being porportional to the time I save using Semantic UI in the future. Although this may seem odd, I am now interested in seeing how other frameworks behave. There's nothing wrong with cutting corners if it can produce good results :) .
