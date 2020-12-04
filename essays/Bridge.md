@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui medium right floated rounded image" src="https://img.pngio.com/bridge-png-images-free-download-png-bridge-960_373.png" width="300" height="300" alt="some_text">
+<img class="ui medium right floated rounded image" src="https://img.pngio.com/bridge-png-images-free-download-png-bridge-960_373.png" width="600" height="300" alt="some_text">
 
 The first human who encountered a river must have been terrified at the sight of it. And beyond this river probably had food that that could fill his or her stomach. This human must get to the other side to obtain this food. The human may swim and possibly drown while going across. Or maybe take the time to go all the around the river to avoid crossing it. Doing this may seem efficient momentarily as the food is obtained. However, this process may be taxing and have a greater cost to the human in the long run. Eventually the human learned how to create a bridge. By spending the extra time to construct this bridge and sophisticate it, the human can get across the river easily. And when any other rivers are encountered, a bridge may be used.
 <br>
